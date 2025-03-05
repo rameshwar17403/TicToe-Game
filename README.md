@@ -22,7 +22,7 @@ Clone the repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone [https://github.com/yourusername/tic-tac-toe.git](https://github.com/rameshwar17403/TicToe-Game)
 Navigate to the project directory and compile the game (if applicable).
 
 How to Run
